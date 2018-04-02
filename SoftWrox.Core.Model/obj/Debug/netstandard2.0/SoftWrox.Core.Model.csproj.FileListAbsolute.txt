@@ -1,0 +1,8 @@
+C:\Users\Stewart Coombs\Projects\SoftWrox\Core\SoftWrox.Core.Model\bin\Debug\netstandard2.0\SoftWrox.Core.Model.deps.json
+C:\Users\Stewart Coombs\Projects\SoftWrox\Core\SoftWrox.Core.Model\bin\Debug\netstandard2.0\SoftWrox.Core.Model.dll
+C:\Users\Stewart Coombs\Projects\SoftWrox\Core\SoftWrox.Core.Model\bin\Debug\netstandard2.0\SoftWrox.Core.Model.pdb
+C:\Users\Stewart Coombs\Projects\SoftWrox\Core\SoftWrox.Core.Model\obj\Debug\netstandard2.0\SoftWrox.Core.Model.csproj.CoreCompileInputs.cache
+C:\Users\Stewart Coombs\Projects\SoftWrox\Core\SoftWrox.Core.Model\obj\Debug\netstandard2.0\SoftWrox.Core.Model.AssemblyInfoInputs.cache
+C:\Users\Stewart Coombs\Projects\SoftWrox\Core\SoftWrox.Core.Model\obj\Debug\netstandard2.0\SoftWrox.Core.Model.AssemblyInfo.cs
+C:\Users\Stewart Coombs\Projects\SoftWrox\Core\SoftWrox.Core.Model\obj\Debug\netstandard2.0\SoftWrox.Core.Model.dll
+C:\Users\Stewart Coombs\Projects\SoftWrox\Core\SoftWrox.Core.Model\obj\Debug\netstandard2.0\SoftWrox.Core.Model.pdb
